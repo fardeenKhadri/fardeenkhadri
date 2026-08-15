@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Fardeen Khadri
+# Hey, I'm Fardeen Khadri
 
 ### 💻 Python Developer · ECE Undergraduate · AI/ML Enthusiast
 
